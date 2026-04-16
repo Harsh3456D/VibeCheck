@@ -287,4 +287,4 @@ score = clamp(0.4 × velocity_variance + 0.6 × backspace_ratio, 0.0, 1.0)
 
 ##  License
 
-MIT — Built with Harsh and caffeine.
+MIT — Built by Harsh and caffeine.
